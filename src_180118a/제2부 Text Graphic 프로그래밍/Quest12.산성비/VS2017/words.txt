@@ -1,0 +1,6 @@
+hello,
+text,
+password,
+index,
+power,
+internet
